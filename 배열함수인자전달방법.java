@@ -18,12 +18,12 @@ public class Main
         int[] a = { 1, 3, 5, 7, 9};
         int b = 10;
 
-       Clss.method(a, b);
+        Clss.method(a, b);
 
-       for (int i = 0; i < a.length; i++)
-           System.out.println("a[" + i + "]: " + a[i]);
+        for (int i = 0; i < a.length; i++)
+            System.out.println("a[" + i + "]: " + a[i]);
 
-       System.out.println("\nb: " + b);
+        System.out.println("\nb: " + b);
 
     } // public static void main(String[] args)
 }
