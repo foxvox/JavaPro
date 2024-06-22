@@ -1,6 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
+// mouse event handling
 public class Sample implements MouseMotionListener, MouseListener
 {
     private Frame f;
