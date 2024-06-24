@@ -35,7 +35,7 @@ public class Sample implements ItemListener
         f.add(one);
         f.add(two);
         f.add(three);
-        f.add(choice, BorderLayout.CENTER);
+        f.add(choice, BorderLayout.CENTER); 
         f.pack();
         f.setVisible(true);
     }
