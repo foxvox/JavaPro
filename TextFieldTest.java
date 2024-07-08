@@ -1,5 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
+
+
 public class Sample
 {
     private Frame f;
